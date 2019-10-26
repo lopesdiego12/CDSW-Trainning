@@ -1,0 +1,33 @@
+# ## Markdown
+
+# Comments in a code file in CDSW can include
+# [Markdown](https://daringfireball.net/projects/markdown/syntax).
+# For example:
+
+# # Heading 1
+
+# ## Heading 2
+
+# ### Heading 3
+
+# Plain text
+
+# *Emphasized text*
+
+# **Bold text**
+
+# `Monospaced text`
+
+# Bulleted list
+# * Item
+#   * Subitem
+# * Item
+
+# Numbered list
+# 1. First Item
+# 2. Second Item
+# 3. Third Item
+
+# [link](https://www.cloudera.com)
+
+# [This link](http://example.net/) has no title attribute. 
